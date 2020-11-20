@@ -2,12 +2,15 @@
 
 ## Background
 
-Used HTML and CSS to create a dashboard showing off the analysis we've done.
+Languagesd used: Python, HTML, CSS, Bootstrap
+
+
+The website link as follows: https://deepikaaa1003.github.io/Web-Design-Challenge/
 
 
 ## Latitude - Latitude Analysis Dashboard with Attitude
 
-Created a visualization dashboard website using visualizations we've created in a past assignment. Plotting weather data analysis 
+Created a visualization dashboard website using visualizations we've created in a past project. Plotting weather data analysis 
 
 In building this dashboard, created individual pages for each plot and a means by which we can navigate between them. These pages contains the visualizations and their corresponding explanations. It has a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them.
 
@@ -35,4 +38,10 @@ The website at the top of every page, has a navigation menu that:
 * Contains a dropdown menu on the right of the navbar named "Plots" that provides a link to each individual visualization page.
 * Provides two more text links on the right: "Comparisons," which links to the comparisons page, and "Data," which links to the data page.
 * Is responsive (using media queries). 
+
+![alt text][logo]
+
+[logo]: https://github.com/DeepikaAa1003/Web-Design-Challenge/blob/master/Resources/assets/images/Demo.gif "Basic walkthrough"
+
+
 
